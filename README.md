@@ -2,8 +2,8 @@
 
 This repository highlights some of the final results of many projects that I'm very proud of. <br>
 
-# Reservoir Computing & Chaos
-* This paper associated with the research I performed at BYU will hopefully be available mid-2022. More details to come. 
+# Reservoir Thinning 
+* This paper associated with the research I performed at BYU will hopefully be published mid-2022. It focuses on Reservoir Computing & Chaotic Systems. More details to come. 
 
 # RISK Game Prediction
 * Predicting the winner of the board game Risk was potentially one of my favorite parts of my undergraduate. I was able to apply valuable ML techniques to an interesting problem, as well as lead the large scale data generation, engineering and analysis.
